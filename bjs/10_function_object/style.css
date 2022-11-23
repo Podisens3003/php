@@ -1,0 +1,14 @@
+.start, .clear{
+padding: 1.25rem;
+border-radius: 5px;
+letter-spacing: 0.1rem;
+}
+
+.card-body {
+letter-spacing: 0.1rem;
+background-color: rgba(143, 161, 206, 0.099);
+}
+
+.m-0 {
+letter-spacing: 0.1rem;
+}
